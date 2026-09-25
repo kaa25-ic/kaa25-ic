@@ -2,4 +2,4 @@
 
 MSc Artificial Intelligence, Imperial College London
 
-Email: your-imperial-email@imperial.ac.uk
+Email: khalid.alahmadi25@imperial.ac.uk
